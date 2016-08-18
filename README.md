@@ -34,4 +34,4 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.  
 ![Image 9](/images/SampleAssignmentSimple9.PNG)
 
-18. Submit the URL of your finished assignment to the dropbox in school loop
+18. Submit the URL of your finished assignment to the assignment link on Edmodo.
